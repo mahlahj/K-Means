@@ -5,4 +5,5 @@ Si lo deseas usar, debes tener instalados:
   - Numpy
   - Matplotlib
   - Seaborn
+
 Así como algunos asociados que marcará la consola.
